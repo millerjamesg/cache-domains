@@ -46,6 +46,11 @@
 			"domain_files": ["google.txt"]
 		},
 		{
+			"name": "linuxmint",
+			"description": "Linux Mint Updates",
+			"domain_files": ["linuxmint.txt"]
+		},
+		{
 			"name": "nexusmods",
 			"description": "Nexus mods / skyrim content",
 			"domain_files": ["nexusmods.txt"]
