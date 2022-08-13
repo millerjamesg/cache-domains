@@ -1,0 +1,2 @@
+mirror.internode.on.net
+security.ubuntu.com
